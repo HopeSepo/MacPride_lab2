@@ -1,0 +1,1 @@
+This project is a get your hands on to learn how to create a well structured HTML5 webpage using semantics elements, it is also helping to learn how to implement HTML5 form validation which is a built-in validation, to validate code using W3C validator and more git commands, github repository, creating pull requests, forking repositories and pushing code to GitHub.
